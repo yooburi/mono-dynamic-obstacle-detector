@@ -10,6 +10,8 @@
 - **ROS 통합**: ROS 토픽을 통해 이미지 입력을 받고, 추적 결과 및 동적 장애물 여부를 다른 노드에 발행합니다.
 - **디버그 시각화**: 원본 이미지에 바운딩 박스, 추적 ID, 예측 위치, 실제 위치 등을 시각화하여 디버깅용 이미지 토픽을 발행합니다.
 
+![Image](https://github.com/user-attachments/assets/9bc3dc98-7413-4857-b79e-daa897ee7961)
+
 https://github.com/user-attachments/assets/ab925940-1cff-4bb1-99d4-e8fdf35fad1c
 
 
